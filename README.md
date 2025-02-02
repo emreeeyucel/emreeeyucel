@@ -1,17 +1,14 @@
 
 ## 🌟 Connect with Me
 <div align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/piinartp/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/emreeeyucel/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
   </a>
-  <a href="https://github.com/ThecoderPinar" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/emreeeyucel" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
   </a>
-  <a href="https://www.kaggle.com/pinuto" target="_blank" style="text-decoration: none;">
+  <a href="https://www.kaggle.com/emreeeyucel" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCpiinartp" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
   </a>
 </div>
 
