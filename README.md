@@ -26,3 +26,10 @@
 [![](https://visitcount.itsvg.in/api?id=emreeeyucel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!-- GitHub Activity Graph -->
+<h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emreeeyucel&theme=dracula"/>
+</div>
