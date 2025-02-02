@@ -1,3 +1,6 @@
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=emreeeyucel&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/emreeeyucel?color=971901&logo=githubb&label=FOLLOWERS"/>
+
 
 ## 🌟 Connect with Me
 <div align="center" style="margin-top: 20px;">
